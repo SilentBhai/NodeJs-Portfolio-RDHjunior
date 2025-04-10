@@ -31,9 +31,8 @@ const Hero = () => {
               <span className="text-blue-600 dark:text-blue-400 font-medium mb-2 block">
                 Hi there, I&apos;m
               </span>
-              <h1 className="text-5xl sm:text-6xl font-bold mb-4 text-gray-900 dark:text-white bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
-                Redwan Ahmed Ratul
-                (RDH JUNIOR)
+              <h1 class="text-5xl sm:text-6xl font-bold mb-4 text-gray-900 dark:text-white bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
+                Redwan Ahmed Ratul <span>(RDH JUNIOR)</span>
               </h1>
               <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-gray-700 dark:text-gray-300">
                 <span className="relative">
