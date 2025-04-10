@@ -49,13 +49,13 @@ const Hero = () => {
               className="flex flex-wrap gap-3 mb-6"
             >
               <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 shadow-sm">
-                <FiCode className="mr-1" /> Frontend
+                <FiCode className="mr-1" /> Dynamic
               </span>
               <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-purple-100 dark:bg-purple-900/40 text-purple-600 dark:text-purple-400 shadow-sm">
-                <FiCode className="mr-1" /> Backend
+                <FiCode className="mr-1" /> e-sports caster
               </span>
               <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-emerald-100 dark:bg-emerald-900/40 text-emerald-600 dark:text-emerald-400 shadow-sm">
-                <FiBriefcase className="mr-1" /> Freelancer
+                <FiBriefcase className="mr-1" /> Liquid Esports
               </span>
             </motion.div>
             
