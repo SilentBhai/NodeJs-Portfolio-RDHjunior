@@ -65,9 +65,7 @@ const Hero = () => {
               transition={{ duration: 0.5, delay: 0.4 }}
               className="text-lg text-gray-600 dark:text-gray-400 max-w-lg mb-8 leading-relaxed"
             >
-              I'm a professional freelance web developer with 3+ years of experience creating responsive, 
-              user-friendly websites and web applications. I specialize in both frontend and backend development, 
-              turning clients' ideas into polished digital solutions.
+            Dynamic e-sports caster with a proven track record at Liquid Esports, delivering rapid analytical commentary and electrifying play-by-play action. Renowned for my engaging storytelling and expert insights, I excel in high-pressure environments, captivating audiences while showcasing instant game sense and clarity. Passionate about competitive gaming and igniting excitement in every match
             </motion.p>
             
             <motion.div
