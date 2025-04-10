@@ -32,11 +32,12 @@ const Hero = () => {
                 Hi there, I&apos;m
               </span>
               <h1 className="text-5xl sm:text-6xl font-bold mb-4 text-gray-900 dark:text-white bg-gradient-to-r from-gray-900 to-gray-700 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
-                Mehedi Hasan
+                Redwan Ahmed Ratul
+                (RDH JUNIOR)
               </h1>
               <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-gray-700 dark:text-gray-300">
                 <span className="relative">
-                  Freelance Web Developer
+                  E-sports Caster
                   <div className="absolute -bottom-1 left-0 w-full h-1 bg-gradient-to-r from-blue-600 to-blue-400 dark:from-blue-500 dark:to-blue-300 rounded-full"></div>
                 </span>
               </h2>
